@@ -1,1 +1,1 @@
-# RnX - State of the art of explaination methods for neural networks
+# RnX - State of the art of explanation methods for neural networks
