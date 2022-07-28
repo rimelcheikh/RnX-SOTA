@@ -9,7 +9,8 @@
 
 - Data types : Images (IMG), text (TXT), tabular (TAB)
 - Black Boxes : Deep neural networks (DNN), Convolutional neural networks (CNN), Recurrent neural networks (RNN), 
-- Explanator : Feature importance (FI), saliency map (SM)
+- Explanator : Feature importance (FI), Saliency map (SM)
+- Problem : Outcome explanation (OUT), Model explanation (MOD)
 
 <table>
   <tr>
@@ -17,7 +18,7 @@
     <th>Data type</th>
     <th>Black Box</th>
     <th>Explanator</th>
-    <th>Explains:</th>
+    <th>Problem</th>
     <th>Code</th>
     <th>Dataset</th>
     <th>Examples</th>
@@ -28,8 +29,8 @@
     <td>IMG</td>
     <td>CNN</td>
     <td>SM</td>
-    <td></td>
-    <td></td>
+    <td>OUT</td>
+    <td>&#x2713;</td>
     <td></td>
     <td></td>
   </tr>
