@@ -108,3 +108,32 @@
     <td></td>
   </tr>
 </table>
+
+
+
+## Methods in terms of : problem, data type, NN and reproducibility
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Data type</th>
+    <th>Black Box</th>
+    <th>Explanator</th>
+    <th>Explains:</th>
+    <th>Code</th>
+    <th>Dataset</th>
+    <th>Examples</th>
+  </tr>
+  
+  <tr>
+    <td>GRAD-CAM <a href="grad-cam">[1]</a> </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  
+</table>
