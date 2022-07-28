@@ -7,6 +7,7 @@
 
 ## Methods in terms of : problem, data type, NN
 
+### Outcome explanation
 <table>
   <tr>
     <th></th>
@@ -21,10 +22,12 @@
     <td>GRAD-CAM [1] </td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   
   <tr>
     <td>CNN</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -35,6 +38,7 @@
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   
   <tr>
@@ -42,10 +46,63 @@
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   
   <tr>
     <td>AGN</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+### Model explanation
+<table>
+  <tr>
+    <th></th>
+    <th>IMG</th>
+    <th>TAB</th>
+    <th>TXT</th>
+    <th>ANY</th>
+  </tr>
+  
+  <tr>
+    <td>DNN</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>CNN</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>RNN</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>NN</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>AGN</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
