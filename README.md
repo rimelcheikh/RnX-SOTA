@@ -125,7 +125,7 @@
   </tr>
   
   <tr>
-    <td>GRAD-CAM <a href="grad-cam">[1]</a> </td>
+    <td>GRAD-CAM <a href="#grad-cam">[1]</a> </td>
     <td></td>
     <td></td>
     <td></td>
@@ -139,4 +139,4 @@
 </table>
 
 ## References:
-<a href="grad-cam"> [1] </a> <div class="csl-entry">Selvaraju, R. R., Cogswell, M., Das, A., Vedantam, R., Parikh, D., &#38; Batra, D. (n.d.). <i>Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization</i>. https://github.com/</div>
+<a id="grad-cam"> [1] </a> <div class="csl-entry">Selvaraju, R. R., Cogswell, M., Das, A., Vedantam, R., Parikh, D., &#38; Batra, D. (n.d.). <i>Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization</i>. https://github.com/</div>
