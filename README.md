@@ -5,6 +5,39 @@
 
 <div class="csl-entry"> Samek, W., Montavon, G., Lapuschkin, S., Anders, C. J., &#38; Müller, K. R. (2021). Explaining Deep Neural Networks and Beyond: A Review of Methods and Applications. <i>Proceedings of the IEEE</i>, <i>109</i>(3), 247–278. https://doi.org/10.1109/JPROC.2021.3060483</div>
 
+## Methods in terms of : data type, NN type, explanator, problem and reproducibility
+
+- Data types : Images (IMG), text (TXT), tabular (TAB)
+- Black Boxes : Deep neural networks (DNN), Convolutional neural networks (CNN), Recurrent neural networks (RNN), 
+- Explanator : Feature importance (FI), saliency map (SM)
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Data type</th>
+    <th>Black Box</th>
+    <th>Explanator</th>
+    <th>Explains:</th>
+    <th>Code</th>
+    <th>Dataset</th>
+    <th>Examples</th>
+  </tr>
+  
+  <tr>
+    <td>GRAD-CAM <a href="#grad-cam">[1]</a> </td>
+    <td>IMG</td>
+    <td>CNN</td>
+    <td>SM</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  
+</table>
+
+
 ## Methods in terms of : problem, data type, NN
 
 ### Outcome explanation
@@ -19,7 +52,7 @@
   
   <tr>
     <td>DNN</td>
-    <td>GRAD-CAM [1] </td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -27,7 +60,7 @@
   
   <tr>
     <td>CNN</td>
-    <td></td>
+    <td>GRAD-CAM <a href="#grad-cam">[1]</a> </td>
     <td></td>
     <td></td>
     <td></td>
@@ -111,32 +144,7 @@
 
 
 
-## Methods in terms of : problem, data type, NN and reproducibility
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Data type</th>
-    <th>Black Box</th>
-    <th>Explanator</th>
-    <th>Explains:</th>
-    <th>Code</th>
-    <th>Dataset</th>
-    <th>Examples</th>
-  </tr>
-  
-  <tr>
-    <td>GRAD-CAM <a href="#grad-cam">[1]</a> </td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  
-  
-</table>
+
 
 ## References:
 <div class="csl-entry"> <a id="grad-cam"> [1] </a> Selvaraju, R. R., Cogswell, M., Das, A., Vedantam, R., Parikh, D., &#38; Batra, D. (n.d.). <i>Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization</i>. https://github.com/</div>
