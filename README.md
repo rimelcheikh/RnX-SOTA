@@ -164,3 +164,4 @@
 ## References:
 <div class="csl-entry"> <a id="grad-cam"> [1] </a> Selvaraju, R. R., Cogswell, M., Das, A., Vedantam, R., Parikh, D., &#38; Batra, D. (n.d.). <i>Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization</i>. https://github.com/</div>
 
+<div class="csl-entry"> <a id="lime"> [2] </a> Ribeiro, M. T., Singh, S., &#38; Guestrin, C. (2016). “Why Should I Trust You?”: Explaining the Predictions of Any Classifier. <i>NAACL-HLT 2016 - 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Proceedings of the Demonstrations Session</i>, 97–101. https://doi.org/10.48550/arxiv.1602.04938</div>
