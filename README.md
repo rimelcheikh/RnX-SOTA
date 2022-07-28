@@ -31,10 +31,10 @@
     <td>CNN</td>
     <td>SM</td>
     <td>OUT</td>
-    <td><a href="https://github.com/ramprs/grad-cam/">&#x2713;</a> </td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://github.com/ramprs/grad-cam/">&#x2713; </a> </td>
+    <td><a href="https://github.com/karpathy/neuraltalk2">Neuraltalk2</a> </td>
+    <td><a href="https://cocodataset.org/#download">COCO</a> </td>
+    <td>&#x2713;</td>
   </tr>
   
   
