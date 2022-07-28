@@ -7,8 +7,8 @@
 
 ## Methods in terms of : data type, NN type, explanator, problem and reproducibility
 
-- Data types : Images (IMG), text (TXT), tabular (TAB)
-- Black Boxes : Deep neural networks (DNN), Convolutional neural networks (CNN), Recurrent neural networks (RNN), 
+- Data types : Images (IMG), Text (TXT), Tabular (TAB), Anything (ANY) 
+- Black Boxes : Deep neural networks (DNN), Convolutional neural networks (CNN), Recurrent neural networks (RNN), Agnostic (AGN)
 - Explanator : Feature importance (FI), Saliency map (SM)
 - Problem : Outcome explanation (OUT), Model explanation (MOD)
 
@@ -29,6 +29,18 @@
     <td>GRAD-CAM <a href="#grad-cam">[1]</a> </td>
     <td>IMG</td>
     <td>CNN</td>
+    <td>SM</td>
+    <td>OUT</td>
+    <td><a href="https://github.com/ramprs/grad-cam/">&#x2713; </a> </td>
+    <td><a href="https://github.com/karpathy/neuraltalk2">Neuraltalk2</a> </td>
+    <td><a href="https://cocodataset.org/#download">COCO</a> </td>
+    <td>&#x2713;</td>
+  </tr>
+  
+  <tr>
+    <td>LIME <a href="#lime">[2]</a> </td>
+    <td>IMG</td>
+    <td>AGN</td>
     <td>SM</td>
     <td>OUT</td>
     <td><a href="https://github.com/ramprs/grad-cam/">&#x2713; </a> </td>
