@@ -39,13 +39,13 @@
   
   <tr>
     <td>LIME <a href="#lime">[2]</a> </td>
-    <td>IMG</td>
+    <td>ANY</td>
     <td>AGN</td>
-    <td>SM</td>
+    <td>FI</td>
     <td>OUT</td>
-    <td><a href="https://github.com/ramprs/grad-cam/">&#x2713; </a> </td>
-    <td><a href="https://github.com/karpathy/neuraltalk2">Neuraltalk2</a> </td>
-    <td><a href="https://cocodataset.org/#download">COCO</a> </td>
+    <td><a href="https://github.com/marcotcr/lime">&#x2713; </a> </td>
+    <td>&#x2713; (many)</td>
+    <td>&#x2713; (many)</td>
     <td>&#x2713;</td>
   </tr>
   
