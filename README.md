@@ -20,6 +20,7 @@
     <th>Explanator</th>
     <th>Problem</th>
     <th>Code</th>
+    <th>BB Model</th>
     <th>Dataset</th>
     <th>Examples</th>
   </tr>
@@ -31,6 +32,7 @@
     <td>SM</td>
     <td>OUT</td>
     <td><a href="https://github.com/ramprs/grad-cam/">&#x2713;</a> </td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
