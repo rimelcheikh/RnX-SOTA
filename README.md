@@ -5,6 +5,10 @@
 
 <div class="csl-entry"> Samek, W., Montavon, G., Lapuschkin, S., Anders, C. J., &#38; Müller, K. R. (2021). Explaining Deep Neural Networks and Beyond: A Review of Methods and Applications. <i>Proceedings of the IEEE</i>, <i>109</i>(3), 247–278. https://doi.org/10.1109/JPROC.2021.3060483</div>
 
+## Formalizing the problem
+
+![image](https://user-images.githubusercontent.com/81907010/181770346-ea579d57-50d3-49c8-862e-43bef09675d6.png)
+
 ## Methods in terms of : data type, NN type, explanator, problem and reproducibility
 
 - Data types : Images (IMG), Text (TXT), Tabular (TAB), Anything (ANY) 
@@ -179,3 +183,5 @@
 <div class="csl-entry"> <a id="grad-cam"> [1] </a> Selvaraju, R. R., Cogswell, M., Das, A., Vedantam, R., Parikh, D., &#38; Batra, D. (n.d.). <i>Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization</i>. https://github.com/</div>
 
 <div class="csl-entry"> <a id="lime"> [2] </a> Ribeiro, M. T., Singh, S., &#38; Guestrin, C. (2016). “Why Should I Trust You?”: Explaining the Predictions of Any Classifier. <i>NAACL-HLT 2016 - 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Proceedings of the Demonstrations Session</i>, 97–101. https://doi.org/10.48550/arxiv.1602.04938</div>
+
+<div class="csl-entry"><a id="dncshap"> [3] </a> Malik, S., Kumar, P., &#38; Raman, B. (2021). <i>Towards Interpretable Facial Emotion Recognition; Towards Interpretable Facial Emotion Recognition</i>. https://doi.org/10.1145/3490035.3490271</div>
