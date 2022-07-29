@@ -1,4 +1,4 @@
-# RnX - State of the art of explanation methods for neural networks
+# RnX - State of the art of explanation methods for deep neural networks
 
 ## Review Papers
 <div class="csl-entry"> Guidotti, R., Monreale, A., Ruggieri, S., Turini, F., Giannotti, F., &#38; Pedreschi, D. (2018). A Survey of Methods for Explaining Black Box Models. <i>ACM Computing Surveys (CSUR)</i>, <i>51</i>(5). https://doi.org/10.1145/3236009</div>
