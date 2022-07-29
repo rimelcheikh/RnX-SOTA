@@ -49,6 +49,18 @@
     <td>&#x2713;</td>
   </tr>
   
+  <tr>
+    <td>DnCShap <a href="#dncshap">[3]</a> </td>
+    <td>IMG</td>
+    <td>CNN</td>
+    <td>FI</td>
+    <td>OUT</td>
+    <td><a href="https://github.com/MIntelligence-Group/InterpretableFER">&#x2713; </a> </td>
+    <td><a href="https://github.com/MIntelligence-Group/InterpretableFER">FER </a> </td>
+    <td><a href="https://zenodo.org/record/3451524#.YuPbpnZBy3A"> JAFFE </a> </td>
+    <td>&#x2713;</td>
+  </tr>
+  
   
 </table>
 
