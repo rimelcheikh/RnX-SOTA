@@ -1,13 +1,11 @@
 # RnX - State of the art of explanation methods for deep neural networks
 
-## Review Papers
-<div class="csl-entry"> Guidotti, R., Monreale, A., Ruggieri, S., Turini, F., Giannotti, F., &#38; Pedreschi, D. (2018). A Survey of Methods for Explaining Black Box Models. <i>ACM Computing Surveys (CSUR)</i>, <i>51</i>(5). https://doi.org/10.1145/3236009</div>
-
-<div class="csl-entry"> Samek, W., Montavon, G., Lapuschkin, S., Anders, C. J., &#38; Müller, K. R. (2021). Explaining Deep Neural Networks and Beyond: A Review of Methods and Applications. <i>Proceedings of the IEEE</i>, <i>109</i>(3), 247–278. https://doi.org/10.1109/JPROC.2021.3060483</div>
-
 ## Problem formalization
 
 ![image](https://user-images.githubusercontent.com/81907010/181770346-ea579d57-50d3-49c8-862e-43bef09675d6.png)
+
+Reverse engineering approach for explaining deep neural networks : <br>
+the learned black box predictor is queried with a test dataset D={X,Y} to produce an oracle &#374;, which associate to each sample x∈X, a label that is not real but assigned by the black box
 
 ## Methods in terms of : data type, NN type, explanator, problem and reproducibility
 
@@ -93,7 +91,7 @@
   
   <tr>
     <td>CNN</td>
-    <td>GRAD-CAM <a href="#grad-cam">[1]</a> </td>
+    <td>GRAD-CAM <a href="#grad-cam">[1]</a> <br> DnCShap <a href="#dncshap">[1]</a> </td>
     <td></td>
     <td></td>
     <td></td>
@@ -176,7 +174,10 @@
 </table>
 
 
+## Review Papers
+<div class="csl-entry"> Guidotti, R., Monreale, A., Ruggieri, S., Turini, F., Giannotti, F., &#38; Pedreschi, D. (2018). A Survey of Methods for Explaining Black Box Models. <i>ACM Computing Surveys (CSUR)</i>, <i>51</i>(5). https://doi.org/10.1145/3236009</div>
 
+<div class="csl-entry"> Samek, W., Montavon, G., Lapuschkin, S., Anders, C. J., &#38; Müller, K. R. (2021). Explaining Deep Neural Networks and Beyond: A Review of Methods and Applications. <i>Proceedings of the IEEE</i>, <i>109</i>(3), 247–278. https://doi.org/10.1109/JPROC.2021.3060483</div>
 
 
 ## References:
