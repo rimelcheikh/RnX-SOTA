@@ -30,7 +30,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   
   <tr>
     <td>GRAD-CAM <a href="#grad-cam">[1]</a> </td>
-    <td>Year</td>
+    <td>2017</td>
     <td>IMG</td>
     <td>CNN</td>
     <td>SM</td>
@@ -43,7 +43,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   
   <tr>
     <td>LIME <a href="#lime">[2]</a> </td>
-    <td>Year</td>
+    <td>2016</td>
     <td>ANY</td>
     <td>AGN</td>
     <td>FI</td>
@@ -53,19 +53,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td>&#x2713; (many)</td>
     <td>&#x2713;</td>
   </tr>
-  
-  <tr>
-    <td>DnCShap <a href="#dncshap">[3]</a> </td>
-    <td>Year</td>
-    <td>IMG</td>
-    <td>CNN</td>
-    <td>FI</td>
-    <td>OUT</td>
-    <td><a href="https://github.com/MIntelligence-Group/InterpretableFER">&#x2713; </a> </td>
-    <td><a href="https://github.com/MIntelligence-Group/InterpretableFER">FER </a> </td>
-    <td><a href="https://zenodo.org/record/3451524#.YuPbpnZBy3A"> JAFFE </a> </td>
-    <td>&#x2713;</td>
-  </tr>
+ 
   
 
   
@@ -185,7 +173,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
 
 
 ## References:
-<div class="csl-entry"> <a id="grad-cam"> [1] </a> Selvaraju, R. R., Cogswell, M., Das, A., Vedantam, R., Parikh, D., &#38; Batra, D. (n.d.). <i>Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization</i>. https://github.com/</div>
+<div class="csl-entry"> <a id="grad-cam"> [1] </a> Selvaraju, R. R., Cogswell, M., Das, A., Vedantam, R., Parikh, D., &#38; Batra, D. (n.d.). <i>Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization</i>. https://openaccess.thecvf.com/content_iccv_2017/html/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.html </div>
 
 <div class="csl-entry"> <a id="lime"> [2] </a> Ribeiro, M. T., Singh, S., &#38; Guestrin, C. (2016). “Why Should I Trust You?”: Explaining the Predictions of Any Classifier. <i>NAACL-HLT 2016 - 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Proceedings of the Demonstrations Session</i>, 97–101. https://doi.org/10.48550/arxiv.1602.04938</div>
 
