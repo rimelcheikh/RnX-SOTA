@@ -17,6 +17,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
 <table>
   <tr>
     <th>Name</th>
+    <th>Year</th>
     <th>Data type</th>
     <th>Black Box</th>
     <th>Explanator</th>
@@ -29,6 +30,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   
   <tr>
     <td>GRAD-CAM <a href="#grad-cam">[1]</a> </td>
+    <td>Year</td>
     <td>IMG</td>
     <td>CNN</td>
     <td>SM</td>
@@ -41,6 +43,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   
   <tr>
     <td>LIME <a href="#lime">[2]</a> </td>
+    <td>Year</td>
     <td>ANY</td>
     <td>AGN</td>
     <td>FI</td>
@@ -53,6 +56,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   
   <tr>
     <td>DnCShap <a href="#dncshap">[3]</a> </td>
+    <td>Year</td>
     <td>IMG</td>
     <td>CNN</td>
     <td>FI</td>
