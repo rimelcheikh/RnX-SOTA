@@ -12,6 +12,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
 - Data types : Images (IMG), Text (TXT), Tabular (TAB), Anything (ANY) 
 - Black Boxes : Deep neural networks (DNN), Convolutional neural networks (CNN), Recurrent neural networks (RNN), Agnostic (AGN)
 - Explanator : Feature importance (FI), Saliency map (SM)
+- Family : Interpretable Local Surrogates (ILS), Occlusion Analysis (OA), Integrated Gradients (IG), Layerwise Relevance Propagation (LRP), Attribution methods(AM)
 - Problem : Outcome explanation (OUT), Model explanation (MOD)
 
 <table>
@@ -21,6 +22,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <th>Data type</th>
     <th>Black Box</th>
     <th>Explanator</th>
+    <th>Family</th>
     <th>Problem</th>
     <th>Code</th>
     <th>BB Model</th>
@@ -34,6 +36,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td>IMG</td>
     <td>CNN</td>
     <td>SM</td>
+    <td>AM</td>
     <td>OUT</td>
     <td><a href="https://github.com/ramprs/grad-cam/">&#x2713; </a> </td>
     <td><a href="https://github.com/karpathy/neuraltalk2">Neuraltalk2</a> </td>
@@ -47,6 +50,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td>ANY</td>
     <td>AGN</td>
     <td>FI</td>
+    <td>ILS</td>
     <td>OUT</td>
     <td><a href="https://github.com/marcotcr/lime">&#x2713; </a> </td>
     <td>&#x2713; (many)</td>
