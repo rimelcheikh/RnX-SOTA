@@ -57,6 +57,20 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td>&#x2713; (many)</td>
     <td>&#x2713;</td>
   </tr>
+  
+  <tr>
+    <td>FESP ES <a href="#lime">[2]</a> </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><a href="">&#x2713; </a> </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
  
   
 
