@@ -59,17 +59,19 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   </tr>
   
   <tr>
-    <td>ES + FESP<a href="#lime">[2]</a> </td>
-    <td>2022</td>
-    <td class="dt"></td>
-    <td></td>
-    <td></td>
-    <td>AM</td>
-    <td>OUT</td>
-    <td><a href="">&#x2713; </a> </td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td class="name">ES + FESP<a href="#lime">[2]</a> </td>
+    <td class="year">2022</td>
+    <td class="dt">IMG TXT</td>
+    <td class="bb"></td>
+    <td class="expl"></td>
+    <td class="fam">AM</td>
+    <td class="prob">OUT</td>
+    <td class="code"><a href="">&#x2713; </a> </td>
+    <td class="bbmod"><a href="https://keras.io/api/applications/vgg/">imgs</a>
+                  <a href="https://huggingface.co/textattack/roberta-base-imdb">txt</a></td>
+    <td class="ds"><a href="https://www.robots.ox.ac.uk/~vgg/data/pets/">imgs</a>
+                  <a href="https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews">txt</a></td>
+    <td class="ex">&#x2713;</td>
   </tr>
  
   
