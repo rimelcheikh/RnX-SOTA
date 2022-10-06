@@ -65,7 +65,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="bb">DNN</td>
     <td class="expl">MC</td>
     <td class="fam">AM</td>
-    <td class="prob">OUT (/MOD)</td>
+    <td class="prob">OUT (MOD)</td>
     <td class="code"><a href="https://github.com/ccdv-ai/fesp_es">&#x2713; </a> </td>
     <td class="bbmod"><a href="https://keras.io/api/applications/vgg/">imgs</a>
                   <a href="https://huggingface.co/textattack/roberta-base-imdb">txt</a></td>
