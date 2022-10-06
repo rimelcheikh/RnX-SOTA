@@ -59,7 +59,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   </tr>
   
   <tr>
-    <td>FESP ES <a href="#lime">[2]</a> </td>
+    <td>ES + FESP<a href="#lime">[2]</a> </td>
     <td>2022</td>
     <td></td>
     <td></td>
