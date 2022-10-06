@@ -11,7 +11,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
 
 - Data types : Images (IMG), Text (TXT), Tabular (TAB), Anything (ANY) 
 - Black Boxes : Deep neural networks (DNN), Convolutional neural networks (CNN), Recurrent neural networks (RNN), Agnostic (AGN)
-- Explanator : Feature importance (FI), Saliency map (SM)
+- Explanator : Feature importance (FI), Saliency map (SM), Marginal Contribution (MC)
 - Family : Interpretable Local Surrogates (ILS), Occlusion Analysis (OA), Integrated Gradients (IG), Layerwise Relevance Propagation (LRP), Attribution methods(AM)
 - Problem : Outcome explanation (OUT), Model explanation (MOD)
 
@@ -62,11 +62,11 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="name">ES + FESP<a href="#lime">[2]</a> </td>
     <td class="year">2022</td>
     <td class="dt">IMG TXT</td>
-    <td class="bb"></td>
-    <td class="expl"></td>
+    <td class="bb">DNN</td>
+    <td class="expl">MC</td>
     <td class="fam">AM</td>
     <td class="prob">OUT</td>
-    <td class="code"><a href="">&#x2713; </a> </td>
+    <td class="code"><a href="https://github.com/ccdv-ai/fesp_es">&#x2713; </a> </td>
     <td class="bbmod"><a href="https://keras.io/api/applications/vgg/">imgs</a>
                   <a href="https://huggingface.co/textattack/roberta-base-imdb">txt</a></td>
     <td class="ds"><a href="https://www.robots.ox.ac.uk/~vgg/data/pets/">imgs</a>
