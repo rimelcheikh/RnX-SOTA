@@ -8,7 +8,7 @@
     <th>Fair <br> treatment<a href="#2">[2]</a></th>
     <th>Sensitivity <a href="#1">[1]</a></th>
     <th>Implementation <br> Invariance <a href="#1">[1]</a></th>
-    <th>Completeness <br> Invariance <a href="#1">[1]</a></th>
+    <th>Completeness<a href="#1">[1]</a></th>
   </tr>
   
   <tr>
@@ -59,8 +59,8 @@
     <td class="symm"></td>
     <td class="fair"></td>
     <td class="sens">o</td>
-    <td class="impl"></td>
-    <td class="comp">x</td>
+    <td class="impl">o</td>
+    <td class="comp">o</td>
   </tr>
   
   
