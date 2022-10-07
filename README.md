@@ -59,7 +59,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   </tr>
   
   <tr>
-    <td class="name">ES + FESP<a href="#lime">[2]</a> </td>
+    <td class="name">ES + FESP<a href="#fesp">[3]</a> </td>
     <td class="year">2022</td>
     <td class="dt">IMG TXT</td>
     <td class="bb">DNN</td>
@@ -196,4 +196,6 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
 <div class="csl-entry"> <a id="grad-cam"> [1] </a> Selvaraju, R. R., Cogswell, M., Das, A., Vedantam, R., Parikh, D., &#38; Batra, D. (n.d.). <i>Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization</i>. https://openaccess.thecvf.com/content_iccv_2017/html/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.html </div>
 
 <div class="csl-entry"> <a id="lime"> [2] </a> Ribeiro, M. T., Singh, S., &#38; Guestrin, C. (2016). “Why Should I Trust You?”: Explaining the Predictions of Any Classifier. <i>NAACL-HLT 2016 - 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Proceedings of the Demonstrations Session</i>, 97–101. https://doi.org/10.48550/arxiv.1602.04938</div>
+
+<div class="csl-entry"> <a id="fesp"> [3] </a> Condevaux, Charles, Sebastien Harispe, et Stephane Mussard. (2022). Fair and Eﬃcient Alternatives to Shapley-Based Attribution Methods <i>ECMLPKDD 2022-The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases.</i>, https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_477.pdf </div>
 
