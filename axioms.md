@@ -8,6 +8,7 @@
     <th>Fair <br> treatment<a href="#2">[2]</a></th>
     <th>Sensitivity <a href="#1">[1]</a></th>
     <th>Implementation <br> Invariance <a href="#1">[1]</a></th>
+    <th>Completeness <br> Invariance <a href="#1">[1]</a></th>
   </tr>
   
   <tr>
@@ -18,7 +19,50 @@
     <td class="fair"></td>
     <td class="sens">x</td>
     <td class="impl"></td>
+    <td class="comp"></td>
   </tr>
+  
+  <tr>
+    <td>Guided back-propagation</td>
+    <td class="lin"></td>
+    <td class="eff"></td>
+    <td class="symm"></td>
+    <td class="fair"></td>
+    <td class="sens">x</td>
+    <td class="impl"></td>
+  </tr>
+  
+  <tr>
+    <td>DeepLift</td>
+    <td class="lin"></td>
+    <td class="eff"></td>
+    <td class="symm"></td>
+    <td class="fair"></td>
+    <td class="sens">o</td>
+    <td class="impl">x</td>
+  </tr>
+  
+  <tr>
+    <td>LRP</td>
+    <td class="lin"></td>
+    <td class="eff"></td>
+    <td class="symm"></td>
+    <td class="fair"></td>
+    <td class="sens">o</td>
+    <td class="impl">x</td>
+  </tr>
+  
+  <tr>
+    <td>IG</td>
+    <td class="lin"></td>
+    <td class="eff"></td>
+    <td class="symm"></td>
+    <td class="fair"></td>
+    <td class="sens">o</td>
+    <td class="impl"></td>
+    <td class="comp">x</td>
+  </tr>
+  
   
 
 </table>
