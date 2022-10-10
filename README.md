@@ -29,6 +29,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <th>Dataset</th>
     <th>Examples</th>
     <th>Evaluation</th>
+    <th>Axiomatic</th>
   </tr>
   
   <tr>
@@ -43,6 +44,8 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td><a href="https://github.com/karpathy/neuraltalk2">Neuraltalk2</a> </td>
     <td><a href="https://cocodataset.org/#download">COCO</a> </td>
     <td>&#x2713;</td>
+    <td></td>
+    <td></td>
   </tr>
   
   <tr>
@@ -58,6 +61,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td>&#x2713; (many)</td>
     <td>&#x2713;</td>
     <td class="eval"></td>
+    <td class="axioms"></td>
   </tr>
   
   <tr>
@@ -75,6 +79,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
                   <a href="https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews">txt</a></td>
     <td class="ex">&#x2713;</td>
     <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/RnX_eval.md">[A]</a></td>
+    <td class="axioms">&#x2713;</td>
   </tr>
   
   <tr>
@@ -90,6 +95,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="ds"><a href=""></a></td>
     <td class="ex"></td>
     <td class="eval"></td>
+    <td class="axioms">&#x2713;</td>
   </tr>
   
   <tr>
