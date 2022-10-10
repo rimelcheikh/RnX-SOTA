@@ -6,7 +6,7 @@
     <th>Efficiency<a href="#2">[2]</a></th>
     <th>Symmetry<a href="#2">[2]</a></th>
     <th>Fair <br> treatment<a href="#2">[2]</a></th>
-    <th>Sensitivity <a href="#1">[1]</a></th>
+    <th>Sensitivity</th>
     <th>Implementation <br> Invariance <a href="#1">[1]</a></th>
     <th>Completeness<a href="#1">[1]</a></th>
   </tr>
@@ -64,8 +64,19 @@
   </tr>
   
   
-
 </table>
+  
+
+# Definitions:
+### Linearity
+### Efficiency
+### Symmetry
+### Fair treatment
+### Sensitivity :
+- For every input and baseline that differ in one feature but have different predictions then the differing feature should be given a non-zero attribution.  <a href="#1">[1]</a> (Section 2.1.)
+### Implementation Invariance
+### Completeness
+  
   
 
 # References:
