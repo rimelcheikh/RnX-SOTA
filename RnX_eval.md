@@ -1,4 +1,5 @@
 # RnX_EVAL
+
 ## The following are references for evaluating the performance of explainibility methods
 
 <a href="#FESP">[1]</a> Mesuring the change in accuracy of prediction in model by ONLY keeping X% of top most important features obtained by the explain. method. (See section 4.1)
@@ -8,7 +9,8 @@
 <a href="#Sundararajan17">[3]</a> Considering images with human-drawn bounding boxes around objects, and computing the percentage of pixel attribution inside the box. (Section 4)
 
 
-
+## Problems to consider
+- Differentiating between artifacts that stem from perturbing the data, a misbehaving model, and a misbehaving attribution method.
 
 
 
