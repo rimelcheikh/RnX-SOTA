@@ -28,6 +28,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <th>BB Model</th>
     <th>Dataset</th>
     <th>Examples</th>
+    <th>Evaluation</th>
   </tr>
   
   <tr>
@@ -56,6 +57,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td>&#x2713; (many)</td>
     <td>&#x2713; (many)</td>
     <td>&#x2713;</td>
+    <td class="eval"></td>
   </tr>
   
   <tr>
@@ -72,6 +74,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="ds"><a href="https://www.robots.ox.ac.uk/~vgg/data/pets/">imgs</a>
                   <a href="https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews">txt</a></td>
     <td class="ex">&#x2713;</td>
+    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/RnX_eval.md">[A]</a></td>
   </tr>
   
   <tr>
@@ -86,6 +89,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="bbmod"><a href=""></a></td>
     <td class="ds"><a href=""></a></td>
     <td class="ex"></td>
+    <td class="eval"></td>
   </tr>
   
   <tr>
@@ -100,6 +104,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="bbmod"><a href=""></a></td>
     <td class="ds"><a href=""></a></td>
     <td class="ex"></td>
+    <td class="eval"></td>
   </tr>
  
   
