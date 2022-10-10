@@ -2,11 +2,11 @@
 
 ## The following are references for evaluating the performance of explainibility methods
 
-- Mesuring the change in accuracy of prediction in model by ONLY keeping X% of top most important features obtained by the explain. method. <a href="#FESP">[1]</a>  (See section 4.1)
+- [A] Mesuring the change in accuracy of prediction in model by ONLY keeping X% of top most important features obtained by the explain. method. <a href="#FESP">[1]</a>  (See section 4.1)
 
-- Selecting the top k pixels by attribution and randomly varying their intensities and then measuring the drop in score. <a href="#samek15">[2]</a> 
+- [B] Selecting the top k pixels by attribution and randomly varying their intensities and then measuring the drop in score. <a href="#samek15">[2]</a> 
 
-- Considering images with human-drawn bounding boxes around objects, and computing the percentage of pixel attribution inside the box. <a href="#Sundararajan17">[3]</a> (Section 4)
+- [C] Considering images with human-drawn bounding boxes around objects, and computing the percentage of pixel attribution inside the box. <a href="#Sundararajan17">[3]</a> (Section 4)
 
 
 ## Problems to consider
