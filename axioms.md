@@ -63,6 +63,17 @@
     <td class="comp">o</td>
   </tr>
   
+  <tr>
+    <td>Lime</td>
+    <td class="lin"></td>
+    <td class="eff"></td>
+    <td class="symm"></td>
+    <td class="fair"></td>
+    <td class="sens">x<a href="#Sundararajan17">[1]</a></td>
+    <td class="impl">o<a href="#Sundararajan17">[1]</a></td>
+    <td class="comp"></td>
+  </tr>
+  
   
 </table>
   
@@ -71,7 +82,8 @@
 ### Linearity : 
 - For all predictors f, g, an AM φ satisfies linearity if, φ(x, α1fi + α2gi) = α1φ(x, fi) + α2φ(x, gi), for all α1, α2 ∈ R and for all classes i ∈ C. <a href="#Condevaux22">[1]</a> (Section 3.1.)
 ### Efficiency
-### Symmetry
+### Symmetry :
+- For all inputs that have identical values for symmetric variables and baselines that have identical values for symmetric variables, the symmetric variables receive identical attributions. For instance, inputs x and y are symmetric w.r.t. F if and only if F (x, y) = F (y, x) for all values of x and y. <a href="#Sundararajan17">[1]</a> (Section 4.1.)
 ### Fair treatment
 ### Sensitivity :
 - For every input and baseline that differ in one feature but have different predictions then the differing feature should be given a non-zero attribution.  <a href="#Sundararajan17">[1]</a> (Section 2.1.)
