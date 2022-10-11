@@ -93,7 +93,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="code"><a href="https://github.com/ankurtaly/Integrated-Gradients">&#x2713; </a></td>
     <td class="bbmod"><a href="https://pytorch.org/hub/pytorch_vision_googlenet/">GoogleNet</a><br>   
                         <a href="https://github.com/yoonkim/CNN_sentence">CNNSC</a><br>   
-                        <a href="">GNMT</a></td>
+                        GNMT<br>W2N2</td>
     <td class="ds"><a href="https://www.image-net.org/">ImageNet</a> <br>
                         <a href="https://github.com/ppasupat/WikiTableQuestions">WikiTableQuestions</a></td>
     <td class="ex">&#x2713;</td>
