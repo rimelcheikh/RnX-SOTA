@@ -97,7 +97,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="ds"><a href="https://www.image-net.org/">ImageNet</a> <br>
                         <a href="https://github.com/ppasupat/WikiTableQuestions">WikiTableQuestions</a></td>
     <td class="ex">&#x2713;</td>
-    <td class="eval"></td>
+    <td class="eval">&#x2715;</td>
     <td class="axioms">&#x2713;</td>
   </tr>
   
