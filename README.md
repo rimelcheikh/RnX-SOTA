@@ -12,7 +12,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
 - Data types : Images (IMG), Text (TXT), Tabular (TAB), Anything (ANY) 
 - Black Boxes : Deep neural networks (DNN), Convolutional neural networks (CNN), Recurrent neural networks (RNN), Agnostic (AGN)
 - Explanator : Feature importance (FI), Saliency map (SM), Marginal Contribution (MC)
-- Family : Interpretable Local Surrogates (ILS), Occlusion Analysis (OA), Integrated Gradients (IG), Layerwise Relevance Propagation (LRP), Attribution methods(AM)
+- Family : Interpretable Local Surrogates (ILS), Occlusion Analysis (OA), Layerwise Relevance Propagation (LRP), Attribution methods(AM)
 - Problem : Outcome explanation (OUT), Model explanation (MOD)
 
 <table>
@@ -85,15 +85,18 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   <tr>
     <td class="name">IG<a href="#ig">[4]</a> </td>
     <td class="year">2017</td>
-    <td class="dt"></td>
-    <td class="bb"></td>
-    <td class="expl"></td>
-    <td class="fam"></td>
-    <td class="prob"></td>
-    <td class="code"><a href=""></a> </td>
-    <td class="bbmod"><a href=""></a></td>
-    <td class="ds"><a href=""></a></td>
-    <td class="ex"></td>
+    <td class="dt">ANY</td>
+    <td class="bb">DNN</td>
+    <td class="expl">FI</td>
+    <td class="fam">AM</td>
+    <td class="prob">OUT</td>
+    <td class="code"><a href="https://github.com/ankurtaly/Integrated-Gradients">&#x2713; </a></td>
+    <td class="bbmod"><a href="https://pytorch.org/hub/pytorch_vision_googlenet/">GoogleNet</a><br>   
+                        <a href="https://github.com/yoonkim/CNN_sentence">CNNSC</a><br>   
+                        <a href="">GNMT</a></td>
+    <td class="ds"><a href="https://www.image-net.org/">ImageNet</a> <br>
+                        <a href="https://github.com/ppasupat/WikiTableQuestions">WikiTableQuestions</a></td>
+    <td class="ex">&#x2713;</td>
     <td class="eval"></td>
     <td class="axioms">&#x2713;</td>
   </tr>
