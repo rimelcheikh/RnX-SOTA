@@ -68,18 +68,20 @@
   
 
 # Definitions:
-### Linearity
+### Linearity : 
+- For all predictors f, g, an AM φ satisfies linearity if, φ(x, α1fi + α2gi) = α1φ(x, fi) + α2φ(x, gi), for all α1, α2 ∈ R and for all classes i ∈ C. <a href="#Condevaux22">[1]</a> (Section 3.1.)
 ### Efficiency
 ### Symmetry
 ### Fair treatment
 ### Sensitivity :
-- For every input and baseline that differ in one feature but have different predictions then the differing feature should be given a non-zero attribution.  <a href="#1">[1]</a> (Section 2.1.)
+- For every input and baseline that differ in one feature but have different predictions then the differing feature should be given a non-zero attribution.  <a href="#Sundararajan17">[1]</a> (Section 2.1.)
+- If the function implemented by the deep network does not depend (mathematically) on some variable, then the attribution to that variable is always zero. <a href="#Sundararajan17">[1]</a> (Section 4.1.)
 ### Implementation Invariance
 ### Completeness
   
   
 
 # References:
-<div class="csl-entry"> <a id="1"> [1] </a> Sundararajan, Mukund, Ankur Taly, et Qiqi Yan. « Axiomatic Attribution for Deep Networks ». arXiv, 12 juin 2017. https://doi.org/10.48550/arXiv.1703.01365. </div>
+<div class="csl-entry"> <a id="Sundararajan17"> [1] </a> Sundararajan, Mukund, Ankur Taly, et Qiqi Yan. « Axiomatic Attribution for Deep Networks ». arXiv, 12 juin 2017. https://doi.org/10.48550/arXiv.1703.01365. </div>
 
-<div class="csl-entry"> <a id="2"> [2] </a> Condevaux, Charles, Sebastien Harispe, et Stephane Mussard. « Fair and Eﬃcient Alternatives to Shapley-Based Attribution Methods », s. d., 16. </div>
+<div class="csl-entry"> <a id="Condevaux22"> [2] </a> Condevaux, Charles, Sebastien Harispe, et Stephane Mussard. « Fair and Eﬃcient Alternatives to Shapley-Based Attribution Methods », s. d., 16. </div>
