@@ -1,5 +1,10 @@
 # RnX_EVAL
 
+## Categories of evaluatin techniques for XAI methods (Wilming et al. 2022):
+- Evaluating the sensitivity or robustness of explanations to model modifications and input perturbations, 
+- Using interdisciplinary and human-centered techniques to evaluate explanations,
+- Establishing a controlled setting by leveraging a-priori knowledge about relevant features.
+
 ## The following are references for evaluating the performance of explainibility methods
 
 - [A] Mesuring the change in accuracy of prediction in model by ONLY keeping X% of top most important features obtained by the explain. method. <a href="#FESP">[1]</a>  (See section 4.1)
