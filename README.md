@@ -109,12 +109,12 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="expl"></td>
     <td class="fam"></td>
     <td class="prob"></td>
-    <td class="code"><a href=""></a> </td>
+    <td class="code"><a href="https://github.com/rmassidda/bisturi">&#x2713;</a> </td>
     <td class="bbmod"><a href=""></a></td>
     <td class="ds"><a href=""></a></td>
     <td class="ex"></td>
-    <td class="eval"></td>
-    <td class="axioms">&#x2713;</td>
+    <td class="eval">&#x2715;</td>
+    <td class="axioms"></td>
   </tr>
   
   <tr>
