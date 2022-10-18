@@ -11,8 +11,8 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
 
 - Data types : Images (IMG), Text (TXT), Tabular (TAB), Anything (ANY) 
 - Black Boxes : Deep neural networks (DNN), Convolutional neural networks (CNN), Recurrent neural networks (RNN), Agnostic (AGN)
-- Explanator : Feature importance (FI), Saliency map (SM), Marginal Contribution (MC)
-- Family : Interpretable Local Surrogates (ILS), Occlusion Analysis (OA), Layerwise Relevance Propagation (LRP), Attribution methods(AM)
+- Explanator : Feature importance (FI), Saliency map (SM), Marginal Contribution (MC), Neural Circuit (NC)
+- Family : Interpretable Local Surrogates (ILS), Occlusion Analysis (OA), Layerwise Relevance Propagation (LRP), Attribution methods(AM), Concept-Based (CB)
 - Problem : Outcome explanation (OUT), Model explanation (MOD)
 
 <table>
@@ -106,15 +106,15 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="year">2022</td>
     <td class="dt">IMG</td>
     <td class="bb">CNN</td>
-    <td class="expl"></td>
-    <td class="fam"></td>
-    <td class="prob"></td>
+    <td class="expl">CN</td>
+    <td class="fam">CB</td>
+    <td class="prob">MOD</td>
     <td class="code"><a href="https://github.com/rmassidda/bisturi">&#x2713;</a> </td>
-    <td class="bbmod"><a href=""></a></td>
-    <td class="ds"><a href=""></a></td>
-    <td class="ex"></td>
+    <td class="bbmod">AlexNet ResNet DenseNet </td>
+    <td class="ds"><a href="https://github.com/CSAILVision/places365">Places-365</a></td>
+    <td class="ex">&#x2713;</td>
     <td class="eval">&#x2715;</td>
-    <td class="axioms"></td>
+    <td class="axioms">&#x2715;</td>
   </tr>
   
   <tr>
