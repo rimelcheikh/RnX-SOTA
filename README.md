@@ -106,7 +106,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="year">2022</td>
     <td class="dt">IMG</td>
     <td class="bb">CNN</td>
-    <td class="expl">CN</td>
+    <td class="expl">NC</td>
     <td class="fam">CB</td>
     <td class="prob">MOD</td>
     <td class="code"><a href="https://github.com/rmassidda/bisturi">&#x2713;</a> </td>
