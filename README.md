@@ -18,7 +18,6 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
 <table>
   <tr>
     <th>Name</th>
-    <th>Year</th>
     <th>Data type</th>
     <th>Black Box</th>
     <th>Explanator</th>
@@ -33,8 +32,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   </tr>
   
   <tr>
-    <td>GRAD-CAM <a href="#grad-cam">[1]</a> </td>
-    <td>2017</td>
+    <td>GRAD-CAM (2017)<a href="#grad-cam">[1]</a> </td>
     <td>IMG</td>
     <td>CNN</td>
     <td>SM</td>
@@ -49,8 +47,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   </tr>
   
   <tr>
-    <td>LIME <a href="#lime">[2]</a> </td>
-    <td>2016</td>
+    <td>LIME (2016)<a href="#lime">[2]</a> </td>
     <td>ANY</td>
     <td>AGN</td>
     <td>FI</td>
@@ -65,8 +62,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   </tr>
   
   <tr>
-    <td class="name">ES + FESP <a href="#fesp">[3]</a> </td>
-    <td class="year">2022</td>
+    <td class="name">ES + FESP (2022)<a href="#fesp">[3]</a> </td>
     <td class="dt">IMG TXT</td>
     <td class="bb">DNN</td>
     <td class="expl">MC</td>
@@ -83,8 +79,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   </tr>
   
   <tr>
-    <td class="name">IG <a href="#ig">[4]</a> </td>
-    <td class="year">2017</td>
+    <td class="name">IG (2017)<a href="#ig">[4]</a> </td>
     <td class="dt">ANY</td>
     <td class="bb">DNN</td>
     <td class="expl">FI</td>
@@ -102,8 +97,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   </tr>
   
   <tr>
-    <td class="name">Bisturi <a href="#bisturi">[5]</a> </td>
-    <td class="year">2022</td>
+    <td class="name">Bisturi (2022)<a href="#bisturi">[5]</a> </td>
     <td class="dt">IMG</td>
     <td class="bb">CNN</td>
     <td class="expl">NC</td>
@@ -119,7 +113,21 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   
   <tr>
     <td class="name"><a href="#">[]</a> </td>
-    <td class="year"></td>
+    <td class="dt">TXT</td>
+    <td class="bb"></td>
+    <td class="expl"></td>
+    <td class="fam">AM</td>
+    <td class="prob">MOD</td>
+    <td class="code"><a href=""></a> </td>
+    <td class="bbmod"><a href=""></a></td>
+    <td class="ds"><a href=""></a></td>
+    <td class="ex"></td>
+    <td class="eval">&#x2713;</td>
+    <td class="axioms"></td>
+  </tr>
+  
+  <tr>
+    <td class="name"><a href="#">[]</a> </td>
     <td class="dt"></td>
     <td class="bb"></td>
     <td class="expl"></td>
