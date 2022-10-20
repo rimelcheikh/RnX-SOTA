@@ -118,12 +118,12 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="expl"></td>
     <td class="fam">AM</td>
     <td class="prob">MOD</td>
-    <td class="code"><a href=""></a> </td>
-    <td class="bbmod"><a href=""></a></td>
-    <td class="ds"><a href="https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews">IMDB</a>
-                  <a href="https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset">AG News</a>
+    <td class="code">&#x2715;</td>
+    <td class="bbmod"><a href="https://github.com/tensorflow/tensor2tensor">multi-head</a></td>
+    <td class="ds"><a href="https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews">IMDB</a><br> 
+                  <a href="https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset">AG News</a><br> 
                   <a href="https://www.yelp.com/dataset">YELP</a></td>
-    <td class="ex"></td>
+    <td class="ex">&#x2713;</td>
     <td class="eval">&#x2713;</td>
     <td class="axioms"></td>
   </tr>
