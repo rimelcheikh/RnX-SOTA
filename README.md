@@ -112,7 +112,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   </tr>
   
   <tr>
-    <td class="name"><a href="#">[]</a> </td>
+    <td class="name"><a href="#contr">[6]</a> </td>
     <td class="dt">TXT</td>
     <td class="bb"></td>
     <td class="expl"></td>
@@ -272,3 +272,4 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
 
 <div class="csl-entry"> <a id="bisturi"> [5] </a> Massidda, Riccardo, and Davide Bacciu. "Knowledge-Driven Interpretation of Convolutional Neural Networks." </div>
 
+<div class="csl-entry"> <a id="contr"> [6] </a> Babiker, Housam K B, Mi-Young Kim, et Randy Goebel. « Neural Networks with Feature Attribution and Contrastive Explanations », s. d., 16. </div>
