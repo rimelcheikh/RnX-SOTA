@@ -112,10 +112,10 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   </tr>
   
   <tr>
-    <td class="name"><a href="#contr">[6]</a> </td>
+    <td class="name">ContInt<a href="#contr">[6]</a> </td>
     <td class="dt">TXT</td>
-    <td class="bb"></td>
-    <td class="expl"></td>
+    <td class="bb">DNN</td>
+    <td class="expl">FI</td>
     <td class="fam">AM</td>
     <td class="prob">MOD</td>
     <td class="code">&#x2715;</td>
@@ -125,7 +125,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
                   <a href="https://www.yelp.com/dataset">YELP</a></td>
     <td class="ex">&#x2713;</td>
     <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/RnX_eval.md">[D,E,F,G,H]</a></td>
-    <td class="axioms"></td>
+    <td class="axioms">&#x2715;</td>
   </tr>
   
   <tr>
