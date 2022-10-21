@@ -22,6 +22,8 @@
 
 - [C] Considering images with human-drawn bounding boxes around objects, and computing the percentage of pixel attribution inside the box. <a href="#Sundararajan17">[3]</a> (Section 4)
 
+- [D] Area over the perturbation curve (AOPC) from ERASER <a href="#deyoung">[4]</a>
+
 
 ## Problems to consider
 - Differentiating between artifacts that stem from perturbing the data, a misbehaving model, and a misbehaving attribution method.
@@ -34,10 +36,9 @@
 <div class="csl-entry"> <a id="FESP"> [1] </a> Condevaux, Charles, Sebastien Harispe, et Stephane Mussard. « Fair and Eﬃcient Alternatives to Shapley-Based Attribution Methods », s. d., 16.
  </div>
  
- 
 <div class="csl-entry"> <a id="samek15"> [2] </a>  Samek, Wojciech, Alexander Binder, Gregoire Montavon, Sebastian Lapuschkin, et Klaus-Robert Muller. « Evaluating the Visualization of What a Deep Neural Network Has Learned ». IEEE Transactions on Neural Networks and Learning Systems 28, nᵒ 11 (novembre 2017): 2660‑73. https://doi.org/10.1109/TNNLS.2016.2599820.  </div>
 
 
 <div class="csl-entry"> <a id="Sundararajan17"> [3] </a> Sundararajan, Mukund, Ankur Taly, et Qiqi Yan. « Axiomatic Attribution for Deep Networks ». arXiv, 12 juin 2017. https://doi.org/10.48550/arXiv.1703.01365. </div>
 
-
+<div class="csl-entry"> <a id="deyoung"> [4] </a> DeYoung, Jay, Sarthak Jain, Nazneen Fatema Rajani, Eric Lehman, Caiming Xiong, Richard Socher, et Byron C. Wallace. « ERASER: A Benchmark to Evaluate Rationalized NLP Models ». arXiv, 24 avril 2020. https://doi.org/10.48550/arXiv.1911.03429. </div>
