@@ -24,7 +24,7 @@
 
 - [D] Area over the perturbation curve (AOPC) from ERASER <a href="#deyoung">[4]</a>
 
-- [E] log-odds <a href="#shrikumar">[5]</a> <a href="#chen">[6]</a>
+- [E] log-odds <a href="#shrikumar">[5]</a>,<a href="#chen">[6]</a>
 
 
 ## Problems to consider
@@ -40,7 +40,10 @@
  
 <div class="csl-entry"> <a id="samek15"> [2] </a>  Samek, Wojciech, Alexander Binder, Gregoire Montavon, Sebastian Lapuschkin, et Klaus-Robert Muller. « Evaluating the Visualization of What a Deep Neural Network Has Learned ». IEEE Transactions on Neural Networks and Learning Systems 28, nᵒ 11 (novembre 2017): 2660‑73. https://doi.org/10.1109/TNNLS.2016.2599820.  </div>
 
-
 <div class="csl-entry"> <a id="Sundararajan17"> [3] </a> Sundararajan, Mukund, Ankur Taly, et Qiqi Yan. « Axiomatic Attribution for Deep Networks ». arXiv, 12 juin 2017. https://doi.org/10.48550/arXiv.1703.01365. </div>
 
 <div class="csl-entry"> <a id="deyoung"> [4] </a> DeYoung, Jay, Sarthak Jain, Nazneen Fatema Rajani, Eric Lehman, Caiming Xiong, Richard Socher, et Byron C. Wallace. « ERASER: A Benchmark to Evaluate Rationalized NLP Models ». arXiv, 24 avril 2020. https://doi.org/10.48550/arXiv.1911.03429. </div>
+
+<div class="csl-entry"> <a id="shrikumar"> [5] </a> Shrikumar, Avanti, Peyton Greenside, et Anshul Kundaje. « Learning Important Features Through Propagating Activation Differences ». arXiv, 12 octobre 2019. https://doi.org/10.48550/arXiv.1704.02685. </div>
+
+<div class="csl-entry"> <a id="chen"> [6] </a>Chen, Jianbo, Le Song, Martin J. Wainwright, et Michael I. Jordan. « L-Shapley and C-Shapley: Efficient Model Interpretation for Structured Data ». arXiv, 7 août 2018. https://doi.org/10.48550/arXiv.1808.02610. </div>
