@@ -24,6 +24,8 @@
 
 - [D] Area over the perturbation curve (AOPC) from ERASER <a href="#deyoung">[4]</a>
 
+- [E] log-odds <a href="#shrikumar">[5]</a> <a href="#chen">[6]</a>
+
 
 ## Problems to consider
 - Differentiating between artifacts that stem from perturbing the data, a misbehaving model, and a misbehaving attribution method.
