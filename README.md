@@ -124,7 +124,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
                   <a href="https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset">AG News</a><br> 
                   <a href="https://www.yelp.com/dataset">YELP</a></td>
     <td class="ex">&#x2713;</td>
-    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/RnX_eval.md">[D]</a></td>
+    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/RnX_eval.md">[D,E,F]</a></td>
     <td class="axioms"></td>
   </tr>
   
