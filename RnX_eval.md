@@ -26,6 +26,8 @@
 
 - [E] log-odds <a href="#shrikumar">[5]</a>,<a href="#chen">[6]</a>
 
+- [F] The degradation score to the trained model accuracy <a href="#nguyen">[7]</a>
+
 
 ## Problems to consider
 - Differentiating between artifacts that stem from perturbing the data, a misbehaving model, and a misbehaving attribution method.
@@ -47,3 +49,6 @@
 <div class="csl-entry"> <a id="shrikumar"> [5] </a> Shrikumar, Avanti, Peyton Greenside, et Anshul Kundaje. « Learning Important Features Through Propagating Activation Differences ». arXiv, 12 octobre 2019. https://doi.org/10.48550/arXiv.1704.02685. </div>
 
 <div class="csl-entry"> <a id="chen"> [6] </a>Chen, Jianbo, Le Song, Martin J. Wainwright, et Michael I. Jordan. « L-Shapley and C-Shapley: Efficient Model Interpretation for Structured Data ». arXiv, 7 août 2018. https://doi.org/10.48550/arXiv.1808.02610. </div>
+
+<div class="csl-entry"> <a id="nguyen"> [7] </a> Nguyen, Dong. « Comparing Automatic and Human Evaluation of Local Explanations for Text Classification ». In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers), 1069‑78. New Orleans, Louisiana: Association for Computational Linguistics, 2018. https://doi.org/10.18653/v1/N18-1097.
+</div>
