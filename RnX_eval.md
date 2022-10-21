@@ -22,11 +22,15 @@
 
 - [C] Considering images with human-drawn bounding boxes around objects, and computing the percentage of pixel attribution inside the box. <a href="#Sundararajan17">[3]</a> (Section 4)
 
-- [D] Area over the perturbation curve (AOPC) from ERASER <a href="#deyoung">[4]</a>
+- [D] Measuring whether all needed features by the model to make a prediction are selected by the explanation method = Comprehensiveness (AOPC) <a href="#deyoung">[4]</a> (Section 4.2)
 
-- [E] log-odds <a href="#shrikumar">[5]</a>,<a href="#chen">[6]</a>
+- [E] Evaluating whether the identified salient features are enough to predict the same label as using the full text = Sufficiency (AOPC) <a href="#deyoung">[4]</a> (Section 4.2)
 
-- [F] The degradation score to the trained model accuracy <a href="#nguyen">[7]</a>
+- [F] Log-odds = Averaging the difference of negative logarithmic probabilities on the predicted class over all of the test data before and after masking the top m% features with zero paddings <a href="#shrikumar">[5]</a>,<a href="#chen">[6]</a>
+
+- [G] The degradation score to the trained model accuracy when higher-ranked features are recursively eliminated<a href="#nguyen">[7]</a>
+
+- [H] Contrastive overlap score , Contrastive confidence score, Contrastive gain <a href="#babiker">[8]</a>
 
 
 ## Problems to consider
@@ -50,5 +54,6 @@
 
 <div class="csl-entry"> <a id="chen"> [6] </a>Chen, Jianbo, Le Song, Martin J. Wainwright, et Michael I. Jordan. « L-Shapley and C-Shapley: Efficient Model Interpretation for Structured Data ». arXiv, 7 août 2018. https://doi.org/10.48550/arXiv.1808.02610. </div>
 
-<div class="csl-entry"> <a id="nguyen"> [7] </a> Nguyen, Dong. « Comparing Automatic and Human Evaluation of Local Explanations for Text Classification ». In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers), 1069‑78. New Orleans, Louisiana: Association for Computational Linguistics, 2018. https://doi.org/10.18653/v1/N18-1097.
-</div>
+<div class="csl-entry"> <a id="nguyen"> [7] </a> Nguyen, Dong. « Comparing Automatic and Human Evaluation of Local Explanations for Text Classification ». In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers), 1069‑78. New Orleans, Louisiana: Association for Computational Linguistics, 2018. https://doi.org/10.18653/v1/N18-1097. </div>
+
+<div class="csl-entry"> <a id="babiker"> [8] </a> Babiker, Housam K B, Mi-Young Kim, et Randy Goebel. « Neural Networks with Feature Attribution and Contrastive Explanations », s. d., 16. </div>
