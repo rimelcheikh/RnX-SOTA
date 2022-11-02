@@ -11,7 +11,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
 
 - Data types : Images (IMG), Text (TXT), Tabular (TAB), Anything (ANY) 
 - Black Boxes : Deep neural networks (DNN), Convolutional neural networks (CNN), Recurrent neural networks (RNN), Agnostic (AGN)
-- Explanator : Feature importance (FI), Saliency map (SM), Marginal Contribution (MC), Neural Circuit (NC)
+- Explanator : Feature importance (FI), Saliency map (SM), Marginal Contribution (MC), Neural Circuit (NC), Concept (C)
 - Family : Interpretable Local Surrogates (ILS), Occlusion Analysis (OA), Layerwise Relevance Propagation (LRP), Attribution methods(AM), Concept-Based (CB)
 - Problem : Outcome explanation (OUT), Model explanation (MOD)
 
@@ -130,17 +130,17 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   
   <tr>
     <td class="name">TCAV<a href="#">[7]</a> </td>
-    <td class="dt"></td>
-    <td class="bb"></td>
-    <td class="expl"></td>
-    <td class="fam"></td>
+    <td class="dt">IMG</td>
+    <td class="bb">CNN</td>
+    <td class="expl">C</td>
+    <td class="fam">CB</td>
     <td class="prob">MOD</td>
     <td class="code"><a href=""></a> </td>
     <td class="bbmod"><a href=""></a></td>
     <td class="ds"><a href=""></a></td>
-    <td class="ex"></td>
-    <td class="eval"></td>
-    <td class="axioms">&#x2713;</td>
+    <td class="ex">&#x2713;</td>
+    <td class="eval">&#x2713;</td>
+    <td class="axioms">&#x2715;</td>
   </tr>
   
   <tr>
