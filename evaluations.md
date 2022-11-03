@@ -32,7 +32,7 @@
 
 - [H] Contrastive overlap score , Contrastive confidence score, Contrastive gain <a href="#babiker">[8]</a>
 
-- [I] <a href="#kim">[9] (Section 4.3)</a>
+- [I] <a href="#kim">[9]</a> (Section 4.3)
 
 
 ## Problems to consider
