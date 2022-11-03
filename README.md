@@ -129,19 +129,21 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   </tr>
   
   <tr>
-    <td class="name">TCAV<a href="#">[7]</a> </td>
+    <td class="name">TCAV<a href="#tcav">[7]</a> </td>
     <td class="dt">IMG</td>
     <td class="bb">CNN</td>
     <td class="expl">C</td>
     <td class="fam">CB</td>
     <td class="prob">MOD</td>
     <td class="code"><a href="https://github.com/tensorflow/tcav">&#x2713;</a> </td>
-    <td class="bbmod"><a href=""></a></td>
-    <td class="ds"><a href=""></a></td>
+    <td class="bbmod"><a href="https://pytorch.org/hub/pytorch_vision_googlenet/">GoogleNet</a>
+                      <a href="https://keras.io/api/applications/inceptionv3/">InceptionV3</a></td>
+    <td class="ds"><a href="https://www.kaggle.com/datasets/google-brain/messidor2-dr-grades">MESSIDOR-2 DR</a></td>
     <td class="ex">&#x2713;</td>
     <td class="eval">&#x2713;</td>
     <td class="axioms">&#x2715;</td>
   </tr>
+  
   
   <tr>
     <td class="name"><a href="#">[]</a> </td>
@@ -154,7 +156,23 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="bbmod"><a href=""></a></td>
     <td class="ds"><a href=""></a></td>
     <td class="ex"></td>
-    <td class="eval"></td>
+    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/RnX_eval.md">[I]</a></td>
+    <td class="axioms">&#x2713;</td>
+  </tr>
+  
+  
+  <tr>
+    <td class="name"><a href="#">[]</a> </td>
+    <td class="dt"></td>
+    <td class="bb"></td>
+    <td class="expl"></td>
+    <td class="fam"></td>
+    <td class="prob"></td>
+    <td class="code"><a href=""></a> </td>
+    <td class="bbmod"><a href=""></a></td>
+    <td class="ds"><a href=""></a></td>
+    <td class="ex"></td>
+    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/RnX_eval.md">[]</a></td>
     <td class="axioms">&#x2713;</td>
   </tr>
  
@@ -288,3 +306,10 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
 <div class="csl-entry"> <a id="bisturi"> [5] </a> Massidda, Riccardo, and Davide Bacciu. "Knowledge-Driven Interpretation of Convolutional Neural Networks." </div>
 
 <div class="csl-entry"> <a id="contr"> [6] </a> Babiker, Housam K B, Mi-Young Kim, et Randy Goebel. « Neural Networks with Feature Attribution and Contrastive Explanations », s. d., 16. </div>
+
+<div class="csl-entry"> <a id="tcav"> [7] </a> Kim, Been, Martin Wattenberg, Justin Gilmer, Carrie Cai, James Wexler, Fernanda Viegas, et Rory Sayres. « Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV) ». arXiv, 7 juin 2018. http://arxiv.org/abs/1711.11279.</div>
+
+<div class="csl-entry"> <a id=""> [] </a> </div>
+
+
+
