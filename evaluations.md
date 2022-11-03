@@ -32,6 +32,8 @@
 
 - [H] Contrastive overlap score , Contrastive confidence score, Contrastive gain <a href="#babiker">[8]</a>
 
+- [I] <a href="#kim">[9] (Section 4.3)</a>
+
 
 ## Problems to consider
 - Differentiating between artifacts that stem from perturbing the data, a misbehaving model, and a misbehaving attribution method.
@@ -57,3 +59,9 @@
 <div class="csl-entry"> <a id="nguyen"> [7] </a> Nguyen, Dong. « Comparing Automatic and Human Evaluation of Local Explanations for Text Classification ». In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers), 1069‑78. New Orleans, Louisiana: Association for Computational Linguistics, 2018. https://doi.org/10.18653/v1/N18-1097. </div>
 
 <div class="csl-entry"> <a id="babiker"> [8] </a> Babiker, Housam K B, Mi-Young Kim, et Randy Goebel. « Neural Networks with Feature Attribution and Contrastive Explanations », s. d., 16. </div>
+
+<div class="csl-entry"> <a id="kim"> [9] </a></div>
+
+<div class="csl-entry"> <a id=""> [] </a></div>
+
+
