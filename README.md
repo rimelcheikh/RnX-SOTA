@@ -147,17 +147,18 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   
   <tr>
     <td class="name">CCE<a href="#abid">[8]</a> </td>
-    <td class="dt"></td>
-    <td class="bb"></td>
-    <td class="expl"></td>
-    <td class="fam"></td>
-    <td class="prob"></td>
-    <td class="code"><a href=""></a> </td>
-    <td class="bbmod"><a href=""></a></td>
-    <td class="ds"><a href=""></a></td>
+    <td class="dt">IMG</td>
+    <td class="bb">CNN</td>
+    <td class="expl">C</td>
+    <td class="fam">CB</td>
+    <td class="prob">OUT+MOD</td>
+    <td class="code"><a href="https://github.com/mertyg/debug-mistakes-cce"></a>&#x2713; </td>
+    <td class="bbmod">ResNet18 <br> <a href="https://github.com/mattgroh/fitzpatrick17k">Fitzpatrick17k</a></td>
+    <td class="ds"><a href="https://github.com/mattgroh/fitzpatrick17k">Fitzpatrick17k</a>
+                    <a href="https://github.com/bethgelab/imagecorruptions">imagecorruptions</a></td>
     <td class="ex"></td>
     <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/RnX_eval.md">[I]</a></td>
-    <td class="axioms">&#x2713;</td>
+    <td class="axioms">&#x2715;</td>
   </tr>
   
   
