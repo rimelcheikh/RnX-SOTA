@@ -156,7 +156,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="bbmod">ResNet18 <br> <a href="https://github.com/mattgroh/fitzpatrick17k">Fitzpatrick17k</a></td>
     <td class="ds"><a href="https://github.com/mattgroh/fitzpatrick17k">Fitzpatrick17k</a>
                     <a href="https://github.com/bethgelab/imagecorruptions">imagecorruptions</a></td>
-    <td class="ex"></td>
+    <td class="ex">&#x2713;</td>
     <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/RnX_eval.md">[I]</a></td>
     <td class="axioms">&#x2715;</td>
   </tr>
