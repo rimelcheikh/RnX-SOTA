@@ -60,7 +60,8 @@
 
 <div class="csl-entry"> <a id="babiker"> [8] </a> Babiker, Housam K B, Mi-Young Kim, et Randy Goebel. « Neural Networks with Feature Attribution and Contrastive Explanations », s. d., 16. </div>
 
-<div class="csl-entry"> <a id="kim"> [9] </a></div>
+<div class="csl-entry"> <a id="kim"> [9] </a>Kim, Been, Martin Wattenberg, Justin Gilmer, Carrie Cai, James Wexler, Fernanda Viegas, et Rory Sayres. « Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV) ». arXiv, 7 juin 2018. http://arxiv.org/abs/1711.11279.
+</div>
 
 <div class="csl-entry"> <a id=""> [] </a></div>
 
