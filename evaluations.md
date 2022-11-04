@@ -34,6 +34,8 @@
 
 - [I] <a href="#kim">[9]</a> (Section 4.3)
 
+- [J] <a href="#abid">[10]</a> (Section 4)
+
 
 ## Problems to consider
 - Differentiating between artifacts that stem from perturbing the data, a misbehaving model, and a misbehaving attribution method.
@@ -62,6 +64,8 @@
 
 <div class="csl-entry"> <a id="kim"> [9] </a>Kim, Been, Martin Wattenberg, Justin Gilmer, Carrie Cai, James Wexler, Fernanda Viegas, et Rory Sayres. « Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV) ». arXiv, 7 juin 2018. http://arxiv.org/abs/1711.11279.
 </div>
+
+<div class="csl-entry"> <a id="abid"> [10] </a>Abid, Abubakar, Mert Yuksekgonul, et James Zou. « Meaningfully Debugging Model Mistakes Using Conceptual Counterfactual Explanations ». In Proceedings of the 39th International Conference on Machine Learning, 66‑88. PMLR, 2022. https://proceedings.mlr.press/v162/abid22a.html.</div>
 
 <div class="csl-entry"> <a id=""> [] </a></div>
 
