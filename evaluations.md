@@ -36,6 +36,8 @@
 
 - [J] <a href="#abid">[10]</a> (Section 4)
 
+- [K] <a href="#yeh">[11]</a> (Sections 5.1, 5.2, 5.3)
+
 
 ## Problems to consider
 - Differentiating between artifacts that stem from perturbing the data, a misbehaving model, and a misbehaving attribution method.
@@ -66,6 +68,8 @@
 </div>
 
 <div class="csl-entry"> <a id="abid"> [10] </a>Abid, Abubakar, Mert Yuksekgonul, et James Zou. « Meaningfully Debugging Model Mistakes Using Conceptual Counterfactual Explanations ». In Proceedings of the 39th International Conference on Machine Learning, 66‑88. PMLR, 2022. https://proceedings.mlr.press/v162/abid22a.html.</div>
+
+<div class="csl-entry"> <a id="yeh"> [11] </a>Yeh, Chih-Kuan, Been Kim, Sercan O. Arik, Chun-Liang Li, Tomas Pfister, et Pradeep Ravikumar. « On Completeness-aware Concept-Based Explanations in Deep Neural Networks ». arXiv, 7 février 2022. https://doi.org/10.48550/arXiv.1910.07969.</div>
 
 <div class="csl-entry"> <a id=""> [] </a></div>
 
