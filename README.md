@@ -74,7 +74,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="ds"><a href="https://www.robots.ox.ac.uk/~vgg/data/pets/">imgs</a>
                   <a href="https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews">txt</a></td>
     <td class="ex">&#x2713;</td>
-    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/RnX_eval.md">[A]</a></td>
+    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/evaluations.md">[A]</a></td>
     <td class="axioms">&#x2713;</td>
   </tr>
   
@@ -124,7 +124,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
                   <a href="https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset">AG News</a><br> 
                   <a href="https://www.yelp.com/dataset">YELP</a></td>
     <td class="ex">&#x2713;</td>
-    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/RnX_eval.md">[D,E,F,G,H]</a></td>
+    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/evaluations.md">[D,E,F,G,H]</a></td>
     <td class="axioms">&#x2715;</td>
   </tr>
   
@@ -140,7 +140,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
                       <a href="https://keras.io/api/applications/inceptionv3/">InceptionV3</a></td>
     <td class="ds"><a href="https://www.kaggle.com/datasets/google-brain/messidor2-dr-grades">MESSIDOR-2 DR</a></td>
     <td class="ex">&#x2713;</td>
-    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/RnX_eval.md">[I]</a></td>
+    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/evaluations.md">[I]</a></td>
     <td class="axioms">&#x2715;</td>
   </tr>
   
@@ -157,7 +157,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="ds"><a href="https://github.com/mattgroh/fitzpatrick17k">Fitzpatrick17k</a>
                     <a href="https://github.com/bethgelab/imagecorruptions">imagecorruptions</a></td>
     <td class="ex">&#x2713;</td>
-    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/RnX_eval.md">[J]</a></td>
+    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/evaluations.md">[J]</a></td>
     <td class="axioms">&#x2715;</td>
   </tr>
   
@@ -174,7 +174,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="ds"><a href="https://academictorrents.com/details/1490aec815141cdb50a32b81ef78b1eaf6b38b03">AwA</a> <br>
                     <a href="https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews">IMDB</a></td>
     <td class="ex">&#x2713;</td>
-    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/RnX_eval.md">[K]</a></td>
+    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/evaluations.md">[K]</a></td>
     <td class="axioms">&#x2713;</td>
   </tr>
   
@@ -190,7 +190,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="bbmod"><a href=""></a></td>
     <td class="ds"></td>
     <td class="ex"></td>
-    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/RnX_eval.md">[]</a></td>
+    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/evaluations.md">[]</a></td>
     <td class="axioms"></td>
   </tr>
  
