@@ -1,17 +1,19 @@
 # RnX_EVAL
 
-## Categories of existing evaluation techniques for XAI methods (Wilming et al. 2022):
+## Evaluating the validity of XAI methods (Wilming et al. 2022):
 - Evaluating the sensitivity or robustness of explanations to model modifications and input perturbations ( = sanity checks <=> correctness of explanations) :
     - Similar inputs should lead to similar explanations (Alvarez-Melis & Jaakkola 2018)
     - Detection of inadequate explanations (Ancona et al. 2018)
     - The identified features of trained models are akin to the ones identified by randomized models (Adebayo et al. 2018) (Hooker et al. 2019)
     - Identified features often represent low-level properties of the inputs (Adebayo et al. 2018) (Sixt et al. 2020)
+
+## Evaluating the performance of XAI methods (Wilming et al. 2022): 
 - Using interdisciplinary and human-centered techniques to evaluate explanations (Doshi-Velez and Kim 2017):
     - Measure the extent to which the use of model ‘explanations’ can help a human to accomplish a task or to predict a model’s behavior (Baehrens et  al. 2010) (Poursabzi-Sangdeh et  al. 2021) (Lage et  al. 2018) (Schmidt and Biessmann 2019)
     - Define ground-truth explanations directly through human expert judgement (Park et al. 2018)
 - Establishing a controlled setting by leveraging a-priori knowledge about relevant features (Ground-truth-centered evaluations):
     - Use of synthetic data to obtain qualitative ‘explanations’, which were then evaluated by humans (Kim et al. 2018)
-    - Derived quantitative statements from synthetic data (Yang and Kim 2019)
+    - Derive quantitative statements from synthetic data (Yang and Kim 2019)
     - Defining the importance of features through a generative process (Ismail et al. 2019) (Tjoa and Guan 2020) (Wilming et al. 2022)
 
 ## The following are references for evaluating the performance of explainibility methods
