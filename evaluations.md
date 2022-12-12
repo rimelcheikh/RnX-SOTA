@@ -1,5 +1,8 @@
 # RnX_EVAL
 
+- Evaluating the validity output -> Yes/No
+- Evaluating the performance -> Real number, metric
+
 ## Evaluating the validity of XAI methods (Wilming et al. 2022):
 - Evaluating the sensitivity or robustness of explanations to model modifications and input perturbations ( = sanity checks <=> correctness of explanations) :
     - Similar inputs should lead to similar explanations (Alvarez-Melis & Jaakkola 2018)
@@ -20,13 +23,7 @@
 
 - [A] Mesuring the change in accuracy of prediction in model by ONLY keeping X% of top most important features obtained by the explain. method. <a href="#FESP">[1]</a>  (See section 4.1)
 
-- [B] Selecting the top k pixels by attribution and randomly varying their intensities and then measuring the drop in score. <a href="#samek15">[2]</a> 
-
 - [C] Considering images with human-drawn bounding boxes around objects, and computing the percentage of pixel attribution inside the box. <a href="#Sundararajan17">[3]</a> (Section 4)
-
-- [D] Measuring whether all needed features by the model to make a prediction are selected by the explanation method = Comprehensiveness (AOPC) <a href="#deyoung">[4]</a> (Section 4.2)
-
-- [E] Evaluating whether the identified salient features are enough to predict the same label as using the full text = Sufficiency (AOPC) <a href="#deyoung">[4]</a> (Section 4.2)
 
 - [F] Log-odds = Averaging the difference of negative logarithmic probabilities on the predicted class over all of the test data before and after masking the top m% features with zero paddings <a href="#shrikumar">[5]</a>,<a href="#chen">[6]</a>
 
@@ -39,6 +36,16 @@
 - [J] <a href="#abid">[10]</a> (Section 4)
 
 - [K] <a href="#yeh">[11]</a> (Sections 5.1, 5.2, 5.3)
+
+
+## The following are references for evaluating the performance of explainibility methods
+- [B] Selecting the top k pixels by attribution and randomly varying their intensities and then checking the drop in score. <a href="#samek15">[2]</a> 
+
+- [D] Measuring whether all needed features by the model to make a prediction are selected by the explanation method = Comprehensiveness (AOPC) <a href="#deyoung">[4]</a> (Section 4.2)
+
+- [E] Evaluating whether the identified salient features are enough to predict the same label as using the full text = Sufficiency (AOPC) <a href="#deyoung">[4]</a> (Section 4.2)
+
+
 
 
 ## Problems to consider
