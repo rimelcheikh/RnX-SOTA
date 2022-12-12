@@ -25,17 +25,17 @@
 
 - [C] Considering images with human-drawn bounding boxes around objects, and computing the percentage of pixel attribution inside the box. <a href="#Sundararajan17">[3]</a> (Section 4)
 
-- [F] Log-odds = Averaging the difference of negative logarithmic probabilities on the predicted class over all of the test data before and after masking the top m% features with zero paddings <a href="#shrikumar">[5]</a>,<a href="#chen">[6]</a>
+- [F] **Log-odds** = Averaging the difference of negative logarithmic probabilities on the predicted class over all of the test data before and after masking the top m% features with zero paddings <a href="#shrikumar">[5]</a>,<a href="#chen">[6]</a>
 
 - [G] The degradation score to the trained model accuracy when higher-ranked features are recursively eliminated<a href="#nguyen">[7]</a>
 
-- [H] Contrastive overlap score , Contrastive confidence score, Contrastive gain <a href="#babiker">[8]</a>
+- [H] **Contrastive overlap score** , Contrastive confidence score, Contrastive gain <a href="#babiker">[8]</a>
 
-- [I] <a href="#kim">[9]</a> (Section 4.3)
+- [I] <a href="#kim">[9]</a> **(Section 4.3)**
 
-- [J] <a href="#abid">[10]</a> (Section 4)
+- [J] <a href="#abid">[10]</a> **(Section 4)**
 
-- [K] <a href="#yeh">[11]</a> (Sections 5.1, 5.2, 5.3)
+- [K] <a href="#yeh">[11]</a> **(Sections 5.1, 5.2, 5.3)**
 
 
 ## The following are references for evaluating the performance of explainibility methods
