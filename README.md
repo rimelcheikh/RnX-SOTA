@@ -107,7 +107,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="bbmod">AlexNet ResNet DenseNet </td>
     <td class="ds"><a href="https://github.com/CSAILVision/places365">Places-365</a></td>
     <td class="ex">&#x2713;</td>
-    <td class="eval">&#x2715;</td>
+    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/evaluations.md">[L]</a></td>
     <td class="axioms">&#x2715;</td>
   </tr>
   
