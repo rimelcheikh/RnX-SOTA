@@ -45,6 +45,7 @@
 
 - [E] Evaluating whether the identified salient features are enough to predict the same label as using the full text = Sufficiency (AOPC) <a href="#deyoung">[4]</a> (Section 4.2)
 
+-[L] Ablating the neural circuits found by the XAI method and checking the drop the accuracy of classifying some classes. <a href="#deyoung">[12]</a> (Section 4.1)
 
 
 
@@ -79,6 +80,9 @@
 <div class="csl-entry"> <a id="abid"> [10] </a>Abid, Abubakar, Mert Yuksekgonul, et James Zou. « Meaningfully Debugging Model Mistakes Using Conceptual Counterfactual Explanations ». In Proceedings of the 39th International Conference on Machine Learning, 66‑88. PMLR, 2022. https://proceedings.mlr.press/v162/abid22a.html.</div>
 
 <div class="csl-entry"> <a id="yeh"> [11] </a>Yeh, Chih-Kuan, Been Kim, Sercan O. Arik, Chun-Liang Li, Tomas Pfister, et Pradeep Ravikumar. « On Completeness-aware Concept-Based Explanations in Deep Neural Networks ». arXiv, 7 février 2022. https://doi.org/10.48550/arXiv.1910.07969.</div>
+
+<div class="csl-entry"> <a id=""> [12] </a>Massidda, Riccardo. Knowledge-Driven Interpretation of Convolutional Neural Networks, s. d., 16.
+</div>
 
 <div class="csl-entry"> <a id=""> [] </a></div>
 
