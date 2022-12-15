@@ -1,4 +1,4 @@
-# RnX - State of the art of explanation methods for deep neural networks
+# State of the art of explanation methods for deep neural networks
 
 ## Problem formalization
 
@@ -178,6 +178,21 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="axioms">&#x2713;</td>
   </tr>
   
+  <tr>
+    <td class="name">X-NeSyL<a href="#diaz">[10]</a> </td>
+    <td class="dt"></td>
+    <td class="bb">CNN</td>
+    <td class="expl"></td>
+    <td class="fam"></td>
+    <td class="prob"></td>
+    <td class="code"><a href=""></a> </td>
+    <td class="bbmod"><a href=""></a></td>
+    <td class="ds"></td>
+    <td class="ex"></td>
+    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/evaluations.md">[]</a></td>
+    <td class="axioms"></td>
+  </tr>
+  
   
   <tr>
     <td class="name"><a href="#">[]</a> </td>
@@ -331,6 +346,9 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
 
 <div class="csl-entry"> <a id="yeh"> [9] </a>Yeh, Chih-Kuan, Been Kim, Sercan O. Arik, Chun-Liang Li, Tomas Pfister, et Pradeep Ravikumar. « On Completeness-aware Concept-Based Explanations in Deep Neural Networks ». arXiv, 7 février 2022. https://doi.org/10.48550/arXiv.1910.07969.
 </div>
+
+<div class="csl-entry"> <a id="diaz"> [10] </a> Díaz-Rodríguez, Natalia, et al. "EXplainable Neural-Symbolic Learning (X-NeSyL) methodology to fuse deep learning representations with expert knowledge graphs: The MonuMAI cultural heritage use case." Information Fusion 79 (2022): 58-83.</div>
+
 
 <div class="csl-entry"> <a id=""> [] </a> </div>
 
