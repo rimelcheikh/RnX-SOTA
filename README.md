@@ -179,7 +179,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   </tr>
   
   <tr>
-    <td class="name">X-NeSyL<a href="#diaz">[10]</a> </td>
+    <td class="name">X-NeSyL(2022) <a href="#diaz">[10]</a> </td>
     <td class="dt"></td>
     <td class="bb">CNN</td>
     <td class="expl"></td>
