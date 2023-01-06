@@ -189,7 +189,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="bbmod"><a href=""></a></td>
     <td class="ds"></td>
     <td class="ex"></td>
-    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/evaluations.md">[]</a></td>
+    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/evaluations.md">[M]</a></td>
     <td class="axioms"></td>
   </tr>
   
