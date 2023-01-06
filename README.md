@@ -187,7 +187,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="prob"></td>
     <td class="code"><a href="https://github.com/JulesSanchez/X-NeSyL">&#x2713;</a></td>
     <td class="bbmod"><a href=""></a></td>
-    <td class="ds"></td>
+    <td class="ds"><a href="https://github.com/ari-dasci/OD-MonuMAI">MonuMAI</a></td>
     <td class="ex"></td>
     <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/evaluations.md">[M]</a></td>
     <td class="axioms"></td>
