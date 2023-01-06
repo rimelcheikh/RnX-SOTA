@@ -47,7 +47,7 @@
 
 -[L] Ablating the neural circuits found by the XAI method and checking the drop the accuracy of classifying some classes. <a href="#massida">[12]</a> (Section 4.1)
 
--[M] SHAP Graph Edit Distance <a href="#diaz">[4]</a> 
+-[M] SHAP Graph Edit Distance <a href="#diaz">[13]</a> 
 
 
 
