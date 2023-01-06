@@ -1,7 +1,7 @@
 # RnX_EVAL
 
 - Evaluating the validity output -> Yes/No
-- Evaluating the performance -> Real number, metric
+- Evaluating the performance -> Real number, metric, helps comparing methods
 
 ## Evaluating the validity of XAI methods (Wilming et al. 2022):
 - Evaluating the sensitivity or robustness of explanations to model modifications and input perturbations ( = sanity checks <=> correctness of explanations) :
@@ -19,7 +19,7 @@
     - Derive quantitative statements from synthetic data (Yang and Kim 2019)
     - Defining the importance of features through a generative process (Ismail et al. 2019) (Tjoa and Guan 2020) (Wilming et al. 2022)
 
-## The following are references for evaluating the performance of explainibility methods
+## The following are references for evaluating the validity of explainibility methods
 
 - [A] Mesuring the change in accuracy of prediction in model by ONLY keeping X% of top most important features obtained by the explain. method. <a href="#FESP">[1]</a>  (See section 4.1)
 
@@ -45,7 +45,9 @@
 
 - [E] Evaluating whether the identified salient features are enough to predict the same label as using the full text = Sufficiency (AOPC) <a href="#deyoung">[4]</a> (Section 4.2)
 
--[L] Ablating the neural circuits found by the XAI method and checking the drop the accuracy of classifying some classes. <a href="#deyoung">[12]</a> (Section 4.1)
+-[L] Ablating the neural circuits found by the XAI method and checking the drop the accuracy of classifying some classes. <a href="#massida">[12]</a> (Section 4.1)
+
+-[M] SHAP Graph Edit Distance <a href="#diaz">[4]</a> 
 
 
 
@@ -81,8 +83,10 @@
 
 <div class="csl-entry"> <a id="yeh"> [11] </a>Yeh, Chih-Kuan, Been Kim, Sercan O. Arik, Chun-Liang Li, Tomas Pfister, et Pradeep Ravikumar. « On Completeness-aware Concept-Based Explanations in Deep Neural Networks ». arXiv, 7 février 2022. https://doi.org/10.48550/arXiv.1910.07969.</div>
 
-<div class="csl-entry"> <a id=""> [12] </a>Massidda, Riccardo. Knowledge-Driven Interpretation of Convolutional Neural Networks, s. d., 16.
+<div class="csl-entry"> <a id="massida"> [12] </a>Massidda, Riccardo. Knowledge-Driven Interpretation of Convolutional Neural Networks, s. d., 16.
 </div>
+
+<div class="csl-entry"> <a id="Diaz"> [13] </a>Díaz-Rodríguez, Natalia, et al. "EXplainable Neural-Symbolic Learning (X-NeSyL) methodology to fuse deep learning representations with expert knowledge graphs: The MonuMAI cultural heritage use case." Information Fusion 79 (2022): 58-83.</div>
 
 <div class="csl-entry"> <a id=""> [] </a></div>
 
