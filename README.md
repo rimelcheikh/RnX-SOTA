@@ -185,7 +185,7 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
     <td class="expl"></td>
     <td class="fam"></td>
     <td class="prob"></td>
-    <td class="code"><a href=""></a> </td>
+    <td class="code"><a href="https://github.com/JulesSanchez/X-NeSyL">&#x2713;</a></td>
     <td class="bbmod"><a href=""></a></td>
     <td class="ds"></td>
     <td class="ex"></td>
