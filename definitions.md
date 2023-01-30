@@ -25,3 +25,7 @@
 - selectivity of explanations : "people usually do not expect that an explanation contains the actual and complete list of the causes of an event, but only a selection of the few causes deemed to be necessary and sufficient to explain it" (Miller, 2019)
 - social nature of explanations : "explanations are part of a dialogue aiming at transferring knowledge, therefore, they are based on the beliefs of both the explainer and explainee" (Miller, 2019)
 - irrelevance of probabilities to explanations : "referring to the occurrence probabilities of events or to the statistical relationships between causes and events does not produce a satisfactory and intuitive explanation. Explanations are more effective when they refer to the causes and not to their likelihood" (Miller, 2019)
+- graphical integrity : "the representations should highlight the features that contribute the most to the final predictions and distinguish those with positive and negative attribution" (Sundararajan et al., IUI Workshops, 2019)
+- coverage : "a large fraction of the most important features should be visible in the representation" (Sundararajan et al., IUI Workshops, 2019)
+- morphological clarity : "the important features should be clearly displayed, their visualisation cannot be ‘noisy’" (Sundararajan et al., IUI Workshops, 2019)
+- layer separation : "the representation cannot occlude the raw image which should be visible for human inspection" (Sundararajan et al., IUI Workshops, 2019)
