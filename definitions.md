@@ -3,6 +3,7 @@
 
 ## Interpretability
 - the capacity to provide or bring out the meaning of an abstract concept and understandability as the capacity to make the model understandable by end-users (Vilone et Long, Information Fusion, 2021)
+- 
 
 ## Explanation
 - *An explanation is the collection of features of the interpretable domain, that have contributed for a given example to produce a decision (e.g. classification or regression) (Montavon et al., Digital Signal Processing, 2018)
@@ -29,3 +30,4 @@
 - coverage : "a large fraction of the most important features should be visible in the representation" (Sundararajan et al., IUI Workshops, 2019)
 - morphological clarity : "the important features should be clearly displayed, their visualisation cannot be ‘noisy’" (Sundararajan et al., IUI Workshops, 2019)
 - layer separation : "the representation cannot occlude the raw image which should be visible for human inspection" (Sundararajan et al., IUI Workshops, 2019)
+- input invariance : "a method for explainability must mirror the sensitivity of the underlying model with respect to transformations of the inputs in order to ensure a reliable interpretation of their contribution to each prediction" (Kindermans et al., NIPS Workshop on Explaining and Visualizing Deep Learning, 2017)
