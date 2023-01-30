@@ -31,3 +31,4 @@
 - morphological clarity : "the important features should be clearly displayed, their visualisation cannot be ‘noisy’" (Sundararajan et al., IUI Workshops, 2019)
 - layer separation : "the representation cannot occlude the raw image which should be visible for human inspection" (Sundararajan et al., IUI Workshops, 2019)
 - input invariance : "a method for explainability must mirror the sensitivity of the underlying model with respect to transformations of the inputs in order to ensure a reliable interpretation of their contribution to each prediction" (Kindermans et al., NIPS Workshop on Explaining and Visualizing Deep Learning, 2017)
+- implementation invariance : a method applied to functionally equivalent neural networks should assign identical contributions to the features of the input (Sundararajan et al., 2017)
