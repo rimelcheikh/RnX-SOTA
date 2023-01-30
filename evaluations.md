@@ -1,7 +1,7 @@
 # RnX_EVAL
 
-- Evaluating the validity output -> Yes/No
-- Evaluating the performance -> Real number, metric, helps comparing methods
+- Human-centered evaluation -> Assessing the validity of an output -> Yes/No 
+- Objective evaluation -> Evaluating the performance -> Real number, metric, helps comparing methods
 
 ## Evaluating the validity of XAI methods (Wilming et al. 2022):
 - Evaluating the sensitivity or robustness of explanations to model modifications and input perturbations ( = sanity checks <=> correctness of explanations) :
