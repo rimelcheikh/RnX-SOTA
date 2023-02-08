@@ -18,9 +18,17 @@
   
   <tr>
     <td class="name">Infidelity</td>
-    <td class="fam"></td>
+    <td class="fam"> FI </td>
     <td class="prob"></td>
     <td class="code"><a href=""></a> </td>
+    <td class="axioms"></td>
+  </tr>
+  
+  <tr>
+    <td class="name">Completeness</td>
+    <td class="fam"> FI + CB </td>
+    <td class="prob"></td>
+    <td class="code"><a href="https://github.com/chihkuanyeh/saliency_evaluation">&#x2713;</a></td>
     <td class="axioms"></td>
   </tr>
 </table>
