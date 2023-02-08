@@ -37,8 +37,8 @@
 
 _________________________________________________________________________________________________________________________________________________________
 
-- Objective evaluation -> Evaluating the performance -> Real number, metric, helps comparing methods
-- Human-centered evaluation -> Assessing the validity of an output -> Yes/No 
+- Objective evaluation -> Evaluating the performance -> Real number, metric, helps comparing methods -> Functional evaluations
+- Human-centered evaluation -> Assessing the validity of an output -> Yes/No -> theoretical properties
 
 ## Evaluating the validity of XAI methods:
 - Evaluating the sensitivity or robustness of explanations to model modifications and input perturbations ( = sanity checks <=> correctness of explanations) :
