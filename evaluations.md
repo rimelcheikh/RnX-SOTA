@@ -7,7 +7,23 @@
 - Explanation completeness - these approaches check which method generates explanations that describe the inferential process of the underlying model to the highest extent. This consists of capturing the highest number of features of the input that affect the decision process of the model
 
 
-
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Family</th>
+    <th>Problem</th>
+    <th>Code</th>
+    <th>Axiomatic</th>
+  </tr>
+  
+  <tr>
+    <td class="name">Infidelity</td>
+    <td class="fam"></td>
+    <td class="prob"></td>
+    <td class="code"><a href=""></a> </td>
+    <td class="axioms"></td>
+  </tr>
+</table>
 
 
 
