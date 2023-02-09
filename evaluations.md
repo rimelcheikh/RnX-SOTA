@@ -98,6 +98,7 @@ ________________________________________________________________________________
 
 ## Problems to consider
 - Differentiating between artifacts that stem from perturbing the data, a misbehaving model, and a misbehaving attribution method.
+- Explaining OOD samples. Does/Should the XAI method try to still explain something that it's not supposed to have learned ?
 - The attributions can include undesirable artifacts of the adversarially constructed baseline. So we would like the baseline to convey a complete absence of signal, so that the features that are apparent from the attributions are properties only of the input, and not of the baseline. <a href="#Sundararajan17">[3]</a> (Section 5)
 
 
