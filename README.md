@@ -195,6 +195,22 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
   
   
   <tr>
+    <td class="name">CoCoX<a href="#">[11]</a> </td>
+    <td class="dt">IMG</td>
+    <td class="bb">CNN</td>
+    <td class="expl">Concept</td>
+    <td class="fam"></td>
+    <td class="prob"></td>
+    <td class="code"><a href="https://github.com/arjunakula/CoCoX">&#x2713;</a> </td>
+    <td class="bbmod"><a href=""></a></td>
+    <td class="ds"></td>
+    <td class="ex">&#x2713;</td>
+    <td class="eval"><a href="https://github.com/rimelcheikh/RnX-SOTA/blob/main/evaluations.md">[]</a></td>
+    <td class="axioms"></td>
+  </tr>
+  
+  
+  <tr>
     <td class="name"><a href="#">[]</a> </td>
     <td class="dt"></td>
     <td class="bb"></td>
@@ -348,6 +364,8 @@ the learned black box predictor is queried with a test dataset D={X,Y} to produc
 </div>
 
 <div class="csl-entry"> <a id="diaz"> [10] </a> Díaz-Rodríguez, Natalia, et al. "EXplainable Neural-Symbolic Learning (X-NeSyL) methodology to fuse deep learning representations with expert knowledge graphs: The MonuMAI cultural heritage use case." Information Fusion 79 (2022): 58-83.</div>
+
+<div class="csl-entry"> <a id=""> [11] </a> </div>
 
 
 <div class="csl-entry"> <a id=""> [] </a> </div>
